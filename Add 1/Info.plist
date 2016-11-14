@@ -34,6 +34,8 @@
 	</array>
 	<key>UIStatusBarHidden</key>
 	<true/>
+	<key>LSApplicationCategoryType</key>
+	<string></string>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
