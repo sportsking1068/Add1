@@ -16,3 +16,5 @@ Running this project is easy – simply download the project, open it in Xcode 8
 
 _Updated for Swift 3_
 
+![Add 1](screenshot.jpg)
+
